@@ -1,7 +1,5 @@
 # Godse-Pranav
 
-
-````markdown
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
@@ -391,43 +389,3 @@ Open To:
   - AI/ML Collaborations
   - Open Source Projects
   - Technical Internships
-````
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:godsepranav07524@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-godsepranav07524%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Pranav%20Godse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GodsePranav">
-<img src="https://img.shields.io/badge/GitHub-GodsePranav-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GodsePranav">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**"Engineering practical software that turns real-world problems into scalable digital solutions."**
-
-<br/>
-
-<a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer" width="100%" />
-</a>
-
-</div>
-```
