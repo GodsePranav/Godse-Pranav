@@ -100,7 +100,7 @@ My current technical interests span:
 
 ### Engineering Fundamentals
 
-`DBMS` · `OOP` · `Operating Systems` · `Computer Networks` · `RESTful Architecture` · `Database Design`
+`DSA` · `DBMS` · `OOP` · `Operating Systems` · `Computer Networks` · `System Design` · `RESTful APIs` · `Database Design` · `Software Engineering` · `Computer Architecture` · `Git & Version Control` · `Problem Solving` · `Algorithms` · `Data Structures` · `SDLC` · `Design Patterns`
 
 ---
 
