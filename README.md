@@ -350,20 +350,14 @@ Certification details are not listed in the provided profile data.
 # Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GodsePranav/GodsePranav/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GodsePranav/GodsePranav/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/GodsePranav/GodsePranav/output/github-snake.svg"
-    />
-  </picture>
+ <picture>
+ <source media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Godse-Pranav/Godse-Pranav/output/github-snake-dark.svg"/>
+ <source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Godse-Pranav/Godse-Pranav/output/github-snake.svg"/>
+ <img alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/Godse-Pranav/Godse-Pranav/output/github-snake.svg"/>
+ </picture>
 </p>
 
 ---
